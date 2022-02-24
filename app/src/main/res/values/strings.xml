@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bird Finder</string>
+    <string name="nothing_found">No birds found</string>
+    <string name="search">search</string>
+    <string name="error_inserting_birds">Error inserting birds!</string>
+    <string name="success">Birds have been inserted into the database!</string>
+</resources>
